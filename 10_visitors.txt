@@ -1,0 +1,352 @@
+ID 1	I'm waiting for the art gallery to open...
+ID 0	I'm waiting for the art gallery to open...
+ID 2	I'm waiting for the art gallery to open...
+ID 3	I'm waiting for the art gallery to open...
+ID 4	I'm waiting for the art gallery to open...
+ID 5	I'm waiting for the art gallery to open...
+ID 6	I'm waiting for the art gallery to open...
+ID 7	I'm waiting for the art gallery to open...
+WATCHMAN:	Opening gallery...
+ID 8	I'm waiting for the art gallery to open...
+ID 9	I'm waiting for the art gallery to open...
+WATCHMAN:	Gallery is opened!
+ID 0	Im In!
+ID 1	Im In!
+ID 2	Im In!
+ID 0	I want to see picn num 2 !
+ID 1	I want to see picn num 0 !
+ID 2	I want to see picn num 3 !
+ID 0	Wow its a Window
+ID 1	Wow its a Forest
+ID 2	Wow its a Birds
+ID 4	Im In!
+ID 4	I want to see picn num 3 !
+ID 5	Im In!
+ID 4	Wow its a Birds
+ID 5	I want to see picn num 3 !
+ID 5	Wow its a Birds
+ID 6	Im In!
+ID 6	I want to see picn num 3 !
+ID 6	Wow its a Birds
+ID 7	Im In!
+ID 7	I want to see picn num 0 !
+ID 7	Wow its a Forest
+ID 3	Im In!
+ID 8	Im In!
+ID 8	I want to see picn num 3 !
+ID 3	I want to see picn num 0 !
+ID 8	Wow its a Birds
+ID 9	Im In!
+ID 3	Wow its a Forest
+ID 9	I want to see picn num 3 !
+ID 9	Wow its a Birds
+ID 9	Got it!
+ID 9	I want to see picn num 3 !
+ID 9	Wow its a Birds
+ID 9	Got it!
+ID 9	I want to see picn num 1 !
+ID 9	Wow its a Sea
+ID 6	Got it!
+ID 7	Got it!
+ID 6	I want to see picn num 0 !
+ID 7	I want to see picn num 3 !
+ID 6	Wow its a Forest
+ID 7	Wow its a Birds
+ID 8	Got it!
+ID 8	I want to see picn num 0 !
+ID 8	Wow its a Forest
+ID 2	Got it!
+ID 1	Got it!
+ID 2	I want to see picn num 0 !
+ID 1	I want to see picn num 4 !
+ID 4	Got it!
+ID 4	I want to see picn num 2 !
+ID 2	Wow its a Forest
+ID 1	Wow its a Field
+ID 4	Wow its a Window
+ID 2	Got it!
+ID 1	Got it!
+ID 2	I want to see picn num 3 !
+ID 1	I want to see picn num 4 !
+ID 2	Wow its a Birds
+ID 1	Wow its a Field
+ID 9	Got it!
+ID 9	I want to see picn num 4 !
+ID 9	Wow its a Field
+ID 8	Got it!
+ID 8	I want to see picn num 4 !
+ID 8	Wow its a Field
+ID 4	Got it!
+ID 4	I want to see picn num 2 !
+ID 4	Wow its a Window
+ID 3	Got it!
+ID 3	I want to see picn num 3 !
+ID 7	Got it!
+ID 3	Wow its a Birds
+ID 7	I want to see picn num 0 !
+ID 7	Wow its a Forest
+ID 7	Got it!
+ID 7	I want to see picn num 3 !
+ID 7	Wow its a Birds
+ID 8	Got it!
+ID 8	I want to see picn num 2 !
+ID 8	Wow its a Window
+ID 8	Got it!
+ID 8	I want to see picn num 0 !
+ID 8	Wow its a Forest
+ID 8	Got it!
+ID 8	I want to see picn num 3 !
+ID 8	Wow its a Birds
+ID 0	Got it!
+ID 0	I want to see picn num 2 !
+ID 0	Wow its a Window
+ID 5	Got it!
+ID 5	I want to see picn num 1 !
+ID 5	Wow its a Sea
+ID 1	Got it!
+ID 1	I want to see picn num 4 !
+ID 1	Wow its a Field
+ID 4	Got it!
+ID 4	I want to see picn num 3 !
+ID 4	Wow its a Birds
+ID 6	Got it!
+ID 6	I want to see picn num 2 !
+ID 6	Wow its a Window
+ID 3	Got it!
+ID 3	I want to see picn num 4 !
+ID 3	Wow its a Field
+ID 4	Got it!
+ID 4	I want to see picn num 4 !
+ID 4	Wow its a Field
+ID 7	Got it!
+ID 7	I want to see picn num 3 !
+ID 7	Wow its a Birds
+ID 7	Got it!
+ID 7	I want to see picn num 3 !
+ID 7	Wow its a Birds
+ID 0	Got it!
+ID 0	I want to see picn num 1 !
+ID 0	Wow its a Sea
+ID 2	Got it!
+ID 2	I want to see picn num 2 !
+ID 2	Wow its a Window
+ID 9	Got it!
+ID 9	I want to see picn num 0 !
+ID 9	Wow its a Forest
+ID 5	Got it!
+ID 5	I want to see picn num 2 !
+ID 5	Wow its a Window
+ID 2	Got it!
+ID 2	I want to see picn num 1 !
+ID 2	Wow its a Sea
+ID 1	Got it!
+ID 1	I want to see picn num 0 !
+ID 1	Wow its a Forest
+ID 6	Got it!
+ID 6	I want to see picn num 2 !
+ID 6	Wow its a Window
+ID 8	Got it!
+ID 8	I want to see picn num 0 !
+ID 8	Wow its a Forest
+ID 1	Got it!
+ID 1	I want to see picn num 1 !
+ID 1	Wow its a Sea
+ID 3	Got it!
+ID 3	I want to see picn num 0 !
+ID 9	Got it!
+ID 3	Wow its a Forest
+ID 9	I want to see picn num 4 !
+ID 9	Wow its a Field
+ID 7	Got it!
+ID 7	I want to see picn num 0 !
+ID 7	Wow its a Forest
+ID 0	Got it!
+ID 0	I want to see picn num 3 !
+ID 0	Wow its a Birds
+ID 0	Got it!
+ID 0	I want to see picn num 3 !
+ID 0	Wow its a Birds
+ID 4	Got it!
+ID 4	I want to see picn num 0 !
+ID 4	Wow its a Forest
+ID 5	Got it!
+ID 5	I want to see picn num 1 !
+ID 5	Wow its a Sea
+ID 2	Got it!
+ID 2	I want to see picn num 2 !
+ID 2	Wow its a Window
+ID 6	Got it!
+ID 6	I want to see picn num 3 !
+ID 6	Wow its a Birds
+ID 2	Got it!
+ID 2	I want to see picn num 2 !
+ID 2	Wow its a Window
+ID 1	Got it!
+ID 1	I want to see picn num 3 !
+ID 1	Wow its a Birds
+ID 7	Got it!
+ID 7	I want to see picn num 2 !
+ID 7	Wow its a Window
+ID 0	Got it!
+ID 0	I want to see picn num 2 !
+ID 0	Wow its a Window
+ID 4	Got it!
+ID 4	I want to see picn num 0 !
+ID 4	Wow its a Forest
+ID 8	Got it!
+ID 8	I want to see picn num 2 !
+ID 8	Wow its a Window
+ID 7	Got it!
+ID 7	I want to see picn num 2 !
+ID 7	Wow its a Window
+ID 7	Got it!
+ID 7	I want to see picn num 0 !
+ID 7	Wow its a Forest
+ID 7	Got it!
+ID 7	I want to see picn num 0 !
+ID 7	Wow its a Forest
+ID 2	Got it!
+ID 0	Got it!
+ID 2	I want to see picn num 1 !
+ID 9	Got it!
+ID 3	Got it!
+ID 0	I want to see picn num 2 !
+ID 9	I want to see picn num 2 !
+ID 2	Wow its a Sea
+ID 3	I want to see picn num 1 !
+ID 0	Wow its a Window
+ID 9	Wow its a Window
+ID 3	Wow its a Sea
+ID 6	Got it!
+ID 6	I want to see picn num 2 !
+ID 6	Wow its a Window
+ID 8	Got it!
+ID 8	I want to see picn num 0 !
+ID 8	Wow its a Forest
+ID 5	Got it!
+ID 5	I want to see picn num 2 !
+ID 5	Wow its a Window
+ID 5	Got it!
+ID 5	I want to see picn num 4 !
+ID 5	Wow its a Field
+ID 1	Got it!
+ID 1	I want to see picn num 1 !
+ID 1	Wow its a Sea
+ID 9	Got it!
+ID 9	Thats been fine! Bye!
+ID 4	Got it!
+ID 4	I want to see picn num 0 !
+ID 4	Wow its a Forest
+ID 0	Got it!
+ID 0	I want to see picn num 0 !
+ID 2	Got it!
+ID 0	Wow its a Forest
+ID 2	I want to see picn num 0 !
+ID 2	Wow its a Forest
+ID 8	Got it!
+ID 8	I want to see picn num 2 !
+ID 8	Wow its a Window
+ID 7	Got it!
+ID 7	I want to see picn num 4 !
+ID 7	Wow its a Field
+ID 7	Got it!
+ID 7	I want to see picn num 0 !
+ID 7	Wow its a Forest
+ID 5	Got it!
+ID 5	I want to see picn num 0 !
+ID 5	Wow its a Forest
+ID 1	Got it!
+ID 1	I want to see picn num 0 !
+ID 1	Wow its a Forest
+ID 1	Got it!
+ID 1	I want to see picn num 2 !
+ID 1	Wow its a Window
+ID 3	Got it!
+ID 3	I want to see picn num 2 !
+ID 3	Wow its a Window
+ID 2	Got it!
+ID 2	I want to see picn num 4 !
+ID 2	Wow its a Field
+ID 8	Got it!
+ID 6	Got it!
+ID 4	Got it!
+ID 8	I want to see picn num 0 !
+ID 6	I want to see picn num 1 !
+ID 4	I want to see picn num 0 !
+ID 8	Wow its a Forest
+ID 6	Wow its a Sea
+ID 4	Wow its a Forest
+ID 7	Got it!
+ID 7	I want to see picn num 1 !
+ID 7	Wow its a Sea
+ID 3	Got it!
+ID 0	Got it!
+ID 1	Got it!
+ID 3	Thats been fine! Bye!
+ID 0	I want to see picn num 2 !
+ID 1	Thats been fine! Bye!
+ID 0	Wow its a Window
+ID 5	Got it!
+ID 4	Got it!
+ID 5	Thats been fine! Bye!
+ID 4	I want to see picn num 4 !
+ID 4	Wow its a Field
+ID 4	Got it!
+ID 4	I want to see picn num 2 !
+ID 4	Wow its a Window
+ID 2	Got it!
+ID 6	Got it!
+ID 8	Got it!
+ID 2	Thats been fine! Bye!
+ID 6	I want to see picn num 4 !
+ID 8	I want to see picn num 1 !
+ID 8	Wow its a Sea
+ID 6	Wow its a Field
+ID 0	Got it!
+ID 0	I want to see picn num 2 !
+ID 0	Wow its a Window
+ID 7	Got it!
+ID 7	Thats been fine! Bye!
+ID 6	Got it!
+ID 6	Thats been fine! Bye!
+ID 4	Got it!
+ID 4	I want to see picn num 4 !
+ID 4	Wow its a Field
+ID 8	Got it!
+ID 0	Got it!
+ID 8	Thats been fine! Bye!
+ID 0	I want to see picn num 2 !
+ID 0	Wow its a Window
+ID 4	Got it!
+ID 4	I want to see picn num 2 !
+ID 4	Wow its a Window
+ID 0	Got it!
+ID 4	Got it!
+ID 0	I want to see picn num 1 !
+ID 4	I want to see picn num 3 !
+ID 0	Wow its a Sea
+ID 4	Wow its a Birds
+ID 0	Got it!
+ID 4	Got it!
+ID 0	I want to see picn num 2 !
+ID 4	I want to see picn num 1 !
+ID 4	Wow its a Sea
+ID 0	Wow its a Window
+ID 4	Got it!
+ID 4	Thats been fine! Bye!
+ID 0	Got it!
+ID 0	I want to see picn num 1 !
+ID 0	Wow its a Sea
+ID 0	Got it!
+ID 0	I want to see picn num 3 !
+ID 0	Wow its a Birds
+ID 0	Got it!
+ID 0	I want to see picn num 0 !
+ID 0	Wow its a Forest
+ID 0	Got it!
+ID 0	I want to see picn num 4 !
+ID 0	Wow its a Field
+ID 0	Got it!
+ID 0	Thats been fine! Bye!
+WATCHMAN:	Closing gallery...
+WATCHMAN:	Gallery is closed!
